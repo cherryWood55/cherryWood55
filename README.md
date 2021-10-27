@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is ✨ _cherryWood55_ ✨, aka, Diya Nag Chaudhury.
+This is ✨ _cherryWood55_ ✨, aka, Diya NagChaudhury.
 
 - 🔭 I’m currently a Contributing writer at GeeksForGeeks.
 - 🌱 I’m currently learning enhancing the applied Visual Design and Accessibility for Web applications.
