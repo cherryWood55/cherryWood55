@@ -2,7 +2,7 @@
 
 This is ✨ _cherryWood55_ ✨, aka, Diya NagChaudhury.
 
-- 🔭 I’m currently a Contributing writer at GeeksForGeeks.
+- 🔭 I’m currently a Specialist Programmer at Infosys.
 - 🌱 I’m currently learning enhancing the applied Visual Design and Accessibility for Web applications.
 - 👯 I’m looking to collaborate on projects on Web design, Java Software development and Data visualization.
 - 🤔 I’m looking for help with the art of making good, open source contributions.
