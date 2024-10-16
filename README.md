@@ -8,6 +8,5 @@ This is ✨ _cherryWood55_ ✨, aka, Diya NagChaudhury.
 - 🤔 I’m looking for help with the intricacies of deploying machine learning models in real-world applications.
 - 💬 Ask me about my passion for learning, my coding adventures, my love for writing, guitars, travel, coffee and cats.
 - 📫 How to reach me: https://www.linkedin.com/in/idiya-nc/
-- 😄 You can find me on: https://www.cherrywood55.blogspot.com
 - ⚡ Fun fact: I once attempted to teach my cat how to code, but all it did was knock my keyboard off the desk!
 
